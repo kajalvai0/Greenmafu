@@ -1,0 +1,7 @@
+/* Custom CSS for theme styling */
+.product-item {
+    transition: transform 0.3s ease-in-out;
+}
+.product-item:hover {
+    transform: scale(1.05);
+}
